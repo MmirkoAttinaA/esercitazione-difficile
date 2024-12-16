@@ -1,1 +1,2 @@
-"Questa � una descrizione del progetto." 
+"Questa Š una descrizione del progetto." 
+Questa è una modifica fatta su GitHub.
