@@ -1,1 +1,2 @@
 "Questa Š una descrizione del progetto." 
+"Questa Š una modifica fatta localmente." 
