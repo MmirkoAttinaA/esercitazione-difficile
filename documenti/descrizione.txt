@@ -1,2 +1,4 @@
-"Questa Š una descrizione del progetto." 
-"Questa Š una modifica fatta localmente." 
+"Questa ï¿½ una descrizione del progetto." 
+"Questa ï¿½ una modifica fatta localmente." 
+"Questa Å  una descrizione del progetto." 
+Questa Ã¨ una modifica fatta su GitHub.
